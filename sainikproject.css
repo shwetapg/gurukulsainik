@@ -1,0 +1,567 @@
+#image
+{
+   	background-image:url("Assets/home_bg.png");
+    height:700px;
+    background-size:118%;
+    background-repeat:no-repeat;
+}
+
+#image1
+{
+    background-image:url("Assets/about_bg.png");
+    background-size:100% 100%;
+    background-repeat:no-repeat;
+    height:655px;
+}
+
+.div2
+{
+ 	background-color:rgb(255,253,205);
+    height:315px;
+}
+
+#text
+{
+ 	color:white;
+}
+
+body
+{
+ 	  background-color:black;
+}
+
+h6
+{
+   	font-size:13px;
+   	text-align:center;
+}
+
+h1,h2,h3,h4,h5
+{
+ 	  text-align:center;
+}
+
+.buynow
+{
+    margin-top:10px;
+    margin-left:128px;
+    background-color:black;
+    color:rgb(255,123,56);
+    border-color:rgb(255,123,56);
+    width:140px;
+    height:48px; 
+    font-weight:bold;
+    border:2px solid #CF632d;
+}
+
+.sainik
+{
+   	letter-spacing:10px;
+   	font-size:3.5rem;
+   	font-weight:100 !important;
+}
+
+.fa
+{
+  	font-size:19px;
+    color:rgb(255,123,56);
+}
+
+.color
+{
+    color:rgb(255,123,56);
+}
+
+.rs_only
+{
+  	margin-left:236px;
+    margin-top:-57px;
+}
+
+#order
+{
+   	background-color:rgb(255,255,255);
+    height:760px;
+    padding-top:20px;
+}
+
+#name
+{
+   	width:275px;
+    margin-left:20px;
+    border-color:rgb(255,123,56);
+    background-color:rgb(233,232,230);
+}
+
+#mobile
+{
+    width:275px;
+    margin-left:20px;
+    border-color:rgb(255,123,56);
+    background-color:rgb(233,232,230);
+    margin-top:15px;
+}
+
+#email
+{
+    width:275px;
+    margin-left:30px;
+    border-color:rgb(255,123,56);
+    background-color:rgb(233,232,230);
+    margin-top:11px;
+}
+#email1
+    {
+        width:275px;
+        margin-left:20px;
+        border-color:rgb(255,123,56);
+        background-color:rgb(233,232,230);
+        margin-top:11px;
+    }
+
+#address
+{
+    width:275px;
+    border-color:rgb(255,123,56);
+    background-color:rgb(233,232,230);
+    margin-top:15px;
+    margin-left:20px;
+}
+
+#message
+{
+    width:275px;
+    border-color:rgb(255,123,56);
+    background-color:rgb(233,232,230);
+    margin-top:20px;
+    margin-left:20px;
+}
+
+#blang
+{
+   	width:275px;
+    height:40px;
+    border-color:rgb(255,123,56);
+    background-color:rgb(233,232,230);
+    margin-left:12px;
+}
+ 
+#copies
+{
+   	width:100px;
+    margin-left:12px;
+    height:40px;
+    border-color:rgb(255,123,56);
+    margin-top:15px;
+    background-color:rgb(233,232,230);
+}
+
+.gst
+{
+   	color:rgb(255,123,56);
+    margin-left:245px;
+}
+
+#author
+{
+    height:885px;
+}
+
+#payment
+{
+  	width:275px;
+    height:40px;
+    border-color:rgb(255,123,56);
+    background-color:rgb(233,232,230);
+    margin-left:20px;
+}
+
+.send_msg
+{
+  	background-color:rgb(255,123,56);
+    margin-left:125px;
+    color:white;
+    margin-top:20px;
+    font-weight:bold;
+    width:150px;
+    height:45px;
+    font-size:15px;
+}
+
+.shipping_chr
+{
+  	color:rgb(255,123,56);
+    margin-left:60px;
+    font-size:15px;
+}
+
+.plc_ord
+{
+  	background-color:rgb(255,123,56);
+    margin-left:140px;
+    color:white;
+    font-weight:bold;
+    margin-top:20px;
+    width:140px;
+    height:48px;
+    font-size:15px;
+}
+
+.contact_us
+{
+  	background-color:rgb(255,123,56);
+    margin-left:140px;
+    color:white;
+    font-weight:bold;
+    width:140px;
+    height:45px;
+    font-size:15px;
+}
+
+::placeholder
+{
+    font-size:12px;
+    font-style:italic;
+    color:lightgrey;
+}
+
+#total
+{
+    width:114px;
+    background-color:rgb(233,232,230);
+    border-color:rgb(255,123,56);
+    margin-top:15px;
+    height:40px;
+    margin-left:4px;
+}
+
+.select_drop:after
+{
+    content:'\25BC';
+    color:rgb(255,123,56);
+    margin-left:-21px;
+    margin-top:12px;
+    font-size:23px;
+}
+input[type=text].rupee 
+{
+    background-image:url(http://i.imgur.com/Fd7NROx.png);
+    padding-left:38px;
+    background-size:16px 17px;
+    background-repeat:no-repeat;
+    background-position-x:18px;
+    background-position-y:11px;
+}
+
+#cont_det1
+{
+    margin-left:10px;
+}
+
+#cont_det2
+{
+    margin-left:14px;
+}
+
+#cont_det3
+{
+    margin-left:100px;
+}
+
+#cont_img1
+{
+    width:22px;
+    margin-left:63px;
+}
+
+#cont_img2
+{
+   width:16px;
+   margin-left:63px; 
+}
+
+#cont_img3
+{
+    width:17px;
+    margin-left:63px;
+}
+
+#enquiry
+{
+    height:875px;
+}
+.tot
+{
+    margin-left:20px;
+}
+#emial_label
+{
+
+}
+@media only screen and (max-width: 600px)
+{
+    #blang
+    {
+        margin-left:12px;
+    }
+
+    #email
+    {
+        margin-left:20px;
+    }
+
+    .mg1
+    {
+        width:70px;
+        margin-left:9px;
+        margin-top:15px;
+    }
+
+    .mg2
+    {
+        width:70px;
+        margin-top:15px;
+        margin-left:5px;
+    }
+
+    .txt1
+    {
+        margin-left:32px;
+        font-weight:bold;
+        line-height:4;
+        font-size:10px;
+    }
+
+    .txt2
+    {
+        margin-left:48px;
+        font-weight:bold;
+        font-size:10px;
+    }
+
+    .txt3
+    {
+        margin-left:29px;
+        font-weight:bold;
+        font-size:10px;
+    }
+
+    .txt4
+    {
+        margin-left:15px;
+        font-weight:bold;
+        font-size:10px;
+    }
+
+    .copy
+    {
+        margin-top:7px;
+    }
+
+    #copies
+    {
+        width:90px;
+        margin-left:12px;
+        border-color:rgb(255,123,56);
+        margin-top:23px;
+        background-color:rgb(233,232,230);
+    }
+
+    .tot
+    {
+        margin-left:17px;
+        margin-top:8px;
+    }
+
+    #total
+    {
+        width:90px;
+        background-color:rgb(233,232,230);
+        border-color:rgb(255,123,56);
+        margin-top:-42px;
+        margin-left:230px;
+    }
+
+    .gst
+    {
+        color:rgb(255,123,56);
+        margin-left:224px;
+        margin-top:3px;
+    }
+
+    .shipping_chr 
+    {
+        color:rgb(255,123,56);
+        margin-left:8px;
+        font-size:15px;
+    }
+
+    #order 
+    {
+        height:750px;
+    }
+
+    #image1
+    {
+        height:710px;
+    }
+
+    #author
+    {
+        height:1085px;
+    }
+
+    #cont_id
+    {
+        margin-left:-28px;
+    }
+
+    #cont_det1
+    {
+        margin-left:14px;
+    }
+
+    #cont_det2
+    {
+        margin-left:14px;
+    }
+
+    #cont_det3
+    {
+        margin-left:52px;
+    }
+
+    #enquiry
+    {
+        height:935px;
+    }
+
+    .plc_ord
+    {
+        margin-left:96px;
+    }
+
+    .contact_us
+    {
+        margin-left:100px;
+    }
+
+    .send_msg
+    {
+        margin-left:92px;
+    }
+
+    .buynow
+    {
+        margin-left:115px;
+    }
+    #name
+    {
+        width:240px;
+        margin-left:8px;
+    }
+    #mobile
+    {
+        width:240px;
+        margin-left: 8px;
+    }
+    #email
+    {
+        width:240px;
+        margin-left:20px;
+    }
+    #email1
+    {
+        width:240px;
+        margin-left:8px;
+        border-color:rgb(255,123,56);
+        background-color:rgb(233,232,230);
+        margin-top:11px;
+    }
+    #address
+    {
+        width:240px;
+        margin-left:10px;
+    }
+    #blang
+    {
+        width:240px;
+        margin-left:8px;
+    }
+    #payment
+    {
+        width:240px;
+        margin-left:10px;
+    }
+    #address_label
+    {
+        margin-left: 5px;
+    }
+    #message
+    {
+        width:250px;
+        margin-left:2px;
+    }
+    
+}
+
+@media only screen and (min-width: 414px)
+{
+    .mgi1
+    {
+        width:80px;
+        margin-left:13px;
+        margin-top:15px;
+    }
+
+    .mgi2
+    {
+        width:80px;
+        margin-top:15px;
+        margin-left:11px;
+    }
+
+    .mgi3
+    {
+        width:80px;
+        margin-top:15px;
+        margin-left:11px;
+    }
+
+    .mgi4
+    {
+        width:80px;
+        margin-top:15px;
+        margin-left:12px;
+    }
+
+    .txti1
+    {
+        margin-left:38px;
+        font-weight:bold;
+        line-height:4;
+        font-size:12px;
+    }
+
+    .txti2
+    {
+        margin-left:58px;
+        font-weight:bold;
+        font-size:12px;
+    }
+
+    .txti3
+    {
+        margin-left:40px;
+        font-weight:bold;
+        font-size:12px;
+    }
+
+    .txti4
+    {
+        margin-left:15px;
+        font-weight:bold;
+        font-size:12px;
+    }
+}
+
