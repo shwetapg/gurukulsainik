@@ -157,7 +157,7 @@
 					<!-- </label> -->
 
 					<label for="total" class="tot" style="">Total:</label>
-					<input type="text" name="total" id="total" class="rupee form-control" value="250">
+					<input type="text" name="total" id="total" class="rupee form-control" value="250" readonly>
 					<span class="gst" style="">+GST @ 12%</span>
 
 					<!--dynamic changing total book price based on number of selecting copies--> 
