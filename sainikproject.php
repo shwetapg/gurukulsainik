@@ -158,7 +158,7 @@
 
 					<label for="total" class="tot" style="">Total:</label>
 					<input type="text" name="total" id="total" class="rupee form-control" value="250" readonly>
-					<span class="gst" style="">+GST @ 12%</span>
+					<!-- <span class="gst" style="">+GST @ 12%</span> -->
 
 					<!--dynamic changing total book price based on number of selecting copies--> 
 					<script>
@@ -173,7 +173,7 @@
 					<select name="payment" id="payment" class="form-control">
 						<option>Cash on Delivery</option>
 						<option>Banking with Deposity</option>
-						<option></option>
+						<!-- <option></option> -->
 					</select>
 					<!-- </label> -->
 					<span class="shipping_chr" style="">Cash on Delivery and shipping charges Rs.50</span><br><br>
